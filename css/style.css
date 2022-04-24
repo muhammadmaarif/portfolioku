@@ -192,6 +192,12 @@ section h3::after {
 	text-align: center;
 	padding: 50px 10px;
 }
+.col-3 p {
+	transition: 0.3s;
+}
+.col-3 p:hover {
+	color: red;
+}
 .col-3 h4 {
 	padding-bottom: 10px;
 	border-bottom: 1px solid;
